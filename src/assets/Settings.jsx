@@ -6,7 +6,7 @@ export default function Settings() {
       <div className="d-flex align-items-center mb-3">
         <div className="position-relative">
           <img
-            src="public\profile.png"
+            src="/profile.png"
             className="rounded-circle"
             style={{ width: "80px", height: "80px", objectFit: "cover" }}
             alt="profile"
